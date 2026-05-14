@@ -30,7 +30,7 @@
 | 0028 | https://news.ycombinator.com/item?id=46619592 | https://blog.eldrid.ge/                         | Y | Y |                              |
 | 0029 | https://news.ycombinator.com/item?id=46619593 | https://dmitry.gr/                              |   |   |                              |
 | 0030 | https://news.ycombinator.com/item?id=46619599 | https://sethops1.net/                           |   |   |                              |
-| 0031 | https://news.ycombinator.com/item?id=46619609 | https://amulya.no/                              |   |   |                              |
+| 0031 | https://news.ycombinator.com/item?id=46619609 | https://amulya.no/                              | N | - | Not enough content           |
 | 0032 | https://news.ycombinator.com/item?id=46619635 | https://gowtham.dev/                            |   |   |                              |
 | 0033 | https://news.ycombinator.com/item?id=46619663 | https://xlii.space/                             |   |   |                              |
 | 0034 | https://news.ycombinator.com/item?id=46619666 | https://ivanyu.me/                              |   |   |                              |
